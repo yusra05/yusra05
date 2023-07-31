@@ -1,29 +1,29 @@
 ### Hi there 👋, I'm YUSRA 😄
 
-😄int main() {
-    std::cout << "Why did the C++ code refuse to be friends with the Python code? Because they couldn't agree on the type of snake🐍 they wanted!" << std::endl;
-    return 0;
-}
+➡ A bit about me 🌱
+  🎓 I'm currently pursuing Computer Science from the University of Delhi, where I'm honing my coding skills and delving deeper into the wonders of technology.
 
-A bit about me 🌱
-🎓 I'm currently pursuing Computer Science from the University of Delhi, where I'm honing my coding skills and delving deeper into the wonders of technology.
+➡ 🚀 I'm proudly contributing to the open-source community as a part of GirlScript Summer of Code and Timechain summer of code. I believe in the power of 
+  collaboration and the magic of sharing knowledge.
 
-🚀 I'm proudly contributing to the open-source community as a part of GirlScript Summer of Code and Timechain summer of code. I believe in the power of collaboration and the magic of sharing knowledge.
+➡ 💡 My current learning focus revolves around mastering Data Structures and Algorithms (DSA) and exploring the fascinating world of Artificial Intelligence (AI). 
+   It's all about staying ahead of the curve and making a positive impact with cutting-edge technologies.
 
-💡 My current learning focus revolves around mastering Data Structures and Algorithms (DSA) and exploring the fascinating world of Artificial Intelligence (AI). It's all about staying ahead of the curve and making a positive impact with cutting-edge technologies.
+➡ 🛠️ Languages and Tools 🚀
 
-🛠️ Languages and Tools 🚀
+    HTML5 🧱
+	CSS3 🎨
+	Bootstrap 📚
+	Tailwind CSS 🌈
+	JavaScript 🚀
+	C++ 📝
+	Java ☕
 
-HTML5 🧱
-CSS3 🎨
-Bootstrap 📚
-Tailwind CSS 🌈
-JavaScript 🚀
-C++ 📝
-Java ☕
+➡ 😄Why did the C++ code refuse to be friends with the Python code? Because they couldn't agree on the type of snake🐍 they wanted!!!
 
-📫 Let's Connect 🤝
-yusra.123987@ms.du.ac.in. 
 
-🌐 Find me on LinkedIn 🤝
-https://www.linkedin.com/in/yusra-227b3024a/
+➡ 📫 Let's Connect 🤝
+	yusra.123987@ms.du.ac.in. 
+
+➡ 🌐 Find me on LinkedIn 🤝
+	https://www.linkedin.com/in/yusra-227b3024a/
