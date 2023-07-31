@@ -1,6 +1,7 @@
 <div style="text-align: center;">
   <h1 style="font-size: 80px;">Hey there👋, I am  <span style="font-family: 'Pacifico', cursive; font-size: 80px;">Yusra</span></h1>
 </div>
+<hr>
 
 ➡ **A bit about me** 🌱
 
