@@ -1,5 +1,6 @@
-### **Hi there** 👋, **I'm YUSRA** 😄
-_______________________________
+<div style="text-align: center;">
+  <h1 style="font-size: 80px;">Hey there👋, I am  <span style="font-family: 'Pacifico', cursive; font-size: 80px;">Yusra</span></h1>
+</div>
 
 ➡ **A bit about me** 🌱
 
@@ -19,12 +20,14 @@ _______________________________
 
 
 ➡ **🛠️ Languages and Tools** 🚀  
-   ![HTML5](https://github.com/yusra05/yusra05/assets/112852251/78649dd3-2f1d-4bbf-b709-2fd74d5108d1.png) 
-   ![CSS3](https://github.com/yusra05/yusra05/assets/112852251/0bf27a1d-d0ea-4321-a48d-58babd4760e7.png) 
-   ![Bootstrap](https://github.com/yusra05/yusra05/assets/112852251/ab20ce95-3bf9-4835-b9b0-775a9706f27c.png) 
-   ![Tailwind CSS](https://github.com/yusra05/yusra05/assets/112852251/ffb9c1ff-bbfb-4b64-b5a3-e52abf688e1f.png) 
-   ![JavaScript](https://github.com/yusra05/yusra05/assets/112852251/128f6f3b-5741-412c-ba62-9dca58e39e27.png) 
-   ![C++](https://github.com/yusra05/yusra05/assets/112852251/63453e6e-4ff2-41d0-a9fe-82478b446f5e.png) 
-   ![Java](https://github.com/yusra05/yusra05/assets/112852251/49ebf141-615d-4736-89ba-b68f8d65953e.png) 
-   ![DSA](https://github.com/yusra05/yusra05/assets/112852251/c4dce1ff-b844-4720-84bb-28c91d609d2a.png) 
-  	
+
+<div style="display: flex; align-items: center;">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/78649dd3-2f1d-4bbf-b709-2fd74d5108d1.png" alt="HTML5" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/0bf27a1d-d0ea-4321-a48d-58babd4760e7.png" alt="CSS3" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/ab20ce95-3bf9-4835-b9b0-775a9706f27c.png" alt="Bootstrap" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/ffb9c1ff-bbfb-4b64-b5a3-e52abf688e1f.png" alt="Tailwind CSS" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/128f6f3b-5741-412c-ba62-9dca58e39e27.png" alt="JavaScript" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/63453e6e-4ff2-41d0-a9fe-82478b446f5e.png" alt="C++" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/49ebf141-615d-4736-89ba-b68f8d65953e.png" alt="Java" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/c4dce1ff-b844-4720-84bb-28c91d609d2a.png" alt="DSA" width="50" height="50">
+</div>
