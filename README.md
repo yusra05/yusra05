@@ -25,7 +25,7 @@
    <img src="https://github.com/yusra05/yusra05/assets/112852251/78649dd3-2f1d-4bbf-b709-2fd74d5108d1.png" alt="HTML5" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/0bf27a1d-d0ea-4321-a48d-58babd4760e7.png" alt="CSS3" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/ab20ce95-3bf9-4835-b9b0-775a9706f27c.png" alt="Bootstrap" width="50" height="50">
-   <img src="https://github.com/yusra05/yusra05/assets/112852251/ffb9c1ff-bbfb-4b64-b5a3-e52abf688e1f.png" alt="Tailwind CSS" width="50" height="50">
+   <img src="https://github.com/yusra05/yusra05/assets/112852251/174f1b1c-0f10-4731-a92f-e0b33c4bb41f.png" alt="Tailwind CSS" width="50" height="50"
    <img src="https://github.com/yusra05/yusra05/assets/112852251/128f6f3b-5741-412c-ba62-9dca58e39e27.png" alt="JavaScript" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/63453e6e-4ff2-41d0-a9fe-82478b446f5e.png" alt="C++" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/49ebf141-615d-4736-89ba-b68f8d65953e.png" alt="Java" width="50" height="50">
