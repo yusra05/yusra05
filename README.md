@@ -2,6 +2,9 @@
   <h1 style="font-size: 200px;">Hey there👋, I am  <span style="font-family: 'Pacifico', cursive; font-size: 200px;">Yusra</span></h1>
 </div>
 
+![hero](https://github.com/yusra05/yusra05/assets/112852251/4b74b337-2d3d-4531-962d-2d2cd64e82ba)
+
+
 ➡ **A bit about me** 🌱
 
   🎓 I'm currently pursuing Computer Science from the University of Delhi, where I'm honing my coding skills and delving deeper into the wonders of technology.
