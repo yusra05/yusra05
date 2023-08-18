@@ -12,7 +12,7 @@
 
 ➡ **👨‍💻 I recently completed a web development internship** at Bharat Intern.
 
-➡ **💡 My current learning focus revolves around mastering** Web Development, Data Structures and Algorithms (DSA), and exploring the fascinating world of Artificial Intelligence (AI).
+➡ **💡 My current learning focus revolves around mastering** Web Development, Data Structures and Algorithms (DSA), and exploring the fascinating world of Web3.
 
 ➡ **📫 Reach me on** 🤝
 	yusra.123987@ms.du.ac.in. 
