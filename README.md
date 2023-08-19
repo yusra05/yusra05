@@ -12,7 +12,7 @@
 
 ➡ **👨‍💻 I recently completed a web development internship** at Bharat Intern.
 
-➡ **💡 My current learning focus revolves around mastering** Web Development, Data Structures and Algorithms (DSA), and exploring the fascinating world of Web3.
+➡ **💡 My current learning focus revolves around mastering** Web Development and exploring the fascinating world of Web3.
 
 ➡ **📫 Reach me on** 🤝
 	yusra.123987@ms.du.ac.in. 
@@ -26,7 +26,6 @@
 <div style="display: flex; align-items: center;">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/78649dd3-2f1d-4bbf-b709-2fd74d5108d1.png" alt="HTML5" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/0bf27a1d-d0ea-4321-a48d-58babd4760e7.png" alt="CSS3" width="50" height="50">
-   <img src="https://github.com/yusra05/yusra05/assets/112852251/ab20ce95-3bf9-4835-b9b0-775a9706f27c.png" alt="Bootstrap" width="40" height="40">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/174f1b1c-0f10-4731-a92f-e0b33c4bb41f.png" alt="Tailwind CSS" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/53780925-c407-4f13-bacd-d070c60032de.png" alt="JavaScript" width="40" height="40">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/ea5af004-6056-462d-b34c-7656a8320f06.png" alt="Svelte" width="50" height="50">
