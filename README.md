@@ -28,6 +28,7 @@
    <img src="https://github.com/yusra05/yusra05/assets/112852251/0bf27a1d-d0ea-4321-a48d-58babd4760e7.png" alt="CSS3" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/174f1b1c-0f10-4731-a92f-e0b33c4bb41f.png" alt="Tailwind CSS" width="50" height="50">
    <img src="https://github.com/yusra05/yusra05/assets/112852251/53780925-c407-4f13-bacd-d070c60032de.png" alt="JavaScript" width="40" height="40">
+  <img src="https://github.com/yusra05/yusra05/assets/112852251/a9850de4-2a5b-475a-a3f8-5031f796038b.png" alt="React" width="40" height="40">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/ea5af004-6056-462d-b34c-7656a8320f06.png" alt="Svelte" width="50" height="50">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/346b0d1a-7db7-4ae4-bcf6-06cf517f8ad4.png" alt="Git" width="50" height="50">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/7d704a18-2545-4803-8460-cb6b8f6a70b0.png" alt="Firebase" width="50" height="50">
