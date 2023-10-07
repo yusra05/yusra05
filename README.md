@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusra05&label=Profile%20views&color=0e75b6&style=flat" alt="yusra05" /> </p>
-
 <div style="text-align: center;">
   <h1 style="font-size: 200px;">Hey there👋, I am  <span style="font-family: 'Pacifico', cursive; font-size: 200px;">Yusra</span></h1>
 </div>
