@@ -30,6 +30,9 @@
   <img src="https://github.com/yusra05/yusra05/assets/112852251/ea5af004-6056-462d-b34c-7656a8320f06.png" alt="Svelte" width="50" height="50">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/346b0d1a-7db7-4ae4-bcf6-06cf517f8ad4.png" alt="Git" width="50" height="50">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/7d704a18-2545-4803-8460-cb6b8f6a70b0.png" alt="Firebase" width="50" height="50">
+ <img src="https://github.com/yusra05/yusra05/assets/112852251/14f3b968-2c4e-443c-a27a-e6ef98b63179.png" alt="Figma" width="50" height="50">
+ <img src="https://github.com/yusra05/yusra05/assets/112852251/d04e4d5c-edd0-4d3a-80fc-aa3266f907d9.png" alt="Git" width="50" height="50">
+
 </div>
 
 <br> 
