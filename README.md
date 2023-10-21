@@ -6,7 +6,7 @@
 
   🎓 I'm currently pursuing Computer Science from the University of Delhi, where I'm honing my coding skills and delving deeper into the wonders of technology.
 
-➡ *🚀 I have contributed to the open-source community* as a part of GirlScript Summer of Code and Timechain summer of code.
+➡ *🚀 I have contributed to the open-source community* as a part of  Timechain summer of code and Hacktoberfest.
 
 ➡ *👨‍💻 I recently completed a web development internship* at Bharat Intern.
 
