@@ -31,6 +31,7 @@
   <img src="https://github.com/yusra05/yusra05/assets/112852251/346b0d1a-7db7-4ae4-bcf6-06cf517f8ad4.png" alt="Git" width="50" height="50">
   <img src="https://github.com/yusra05/yusra05/assets/112852251/7d704a18-2545-4803-8460-cb6b8f6a70b0.png" alt="Firebase" width="50" height="50">
  <img src="https://github.com/yusra05/yusra05/assets/112852251/14f3b968-2c4e-443c-a27a-e6ef98b63179.png" alt="Figma" width="50" height="50">
+  <img src="https://github.com/yusra05/yusra05/assets/112852251/5c78327e-ef3e-4590-8cb2-44da7635f7cd.png" alt="Canva" width="50" height="50">
 
 </div>
 
