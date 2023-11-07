@@ -18,7 +18,6 @@
 ➡ *🌐 Find me on LinkedIn* 🤝
 	[LinkedIn Profile](https://www.linkedin.com/in/yusra-227b3024a/)
 
-
 ➡ *🛠 Languages and Tools* 🚀  
 
 <div style="display: flex; align-items: center;">
@@ -50,3 +49,4 @@
 </div>
 
 
+## ✨The error of the past is the wisdom of the future
