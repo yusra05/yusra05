@@ -1,4 +1,4 @@
-## Hey there👋, I am Yusra
+# Hey there👋, I am Yusra
 
 ➡ *A bit about me* 🌱 
 
@@ -47,4 +47,4 @@
 </div>
 
 
-# ✨The error of the past is the wisdom of the future
+## ✨The error of the past is the wisdom of the future
