@@ -1,6 +1,4 @@
-<div style="text-align: center !important;">
-  <h1 style="font-size: 200px;">Hey there👋, I am  <span style=" font-size: 200px;">Yusra</span></h1>
-</div>
+## Hey there👋, I am Yusra
 
 ➡ *A bit about me* 🌱 
 
