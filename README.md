@@ -35,9 +35,7 @@
 <br> 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr;">
-    <div>
-        <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusra05&show_icons=true&locale=en&layout=compact" alt="yusra05" /></p>
-    </div>
+   
     <div>
         <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yusra05&show_icons=true&locale=en" alt="yusra05" style="width: 296px;" /></p>
     </div>
