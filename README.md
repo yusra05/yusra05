@@ -6,7 +6,7 @@
 
 ➡ *🚀 I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest & JGEC Winter of Code.
 
-➡ *👨‍💻 I am Full-Stack Developer.
+➡ 👨‍💻 I am Full-Stack Developer.
 
 ➡ *📫 Reach me on* 🤝
 	yusra.123987@ms.du.ac.in. 
