@@ -4,11 +4,9 @@
 
   🎓 I'm currently pursuing Computer Science from the University of Delhi.
 
-➡ *🚀 I have contributed to the open-source* as a part of  Timechain summer of code and Hacktoberfest.
+➡ *🚀 I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest & JGEC Winter of Code.
 
-➡ *👨‍💻 I recently completed a web development internship* at Bharat Intern.
-
-➡ *💡 My current learning focus revolves around mastering* Web Development and exploring the fascinating world of Web3.
+➡ *👨‍💻 I am Full-Stack Developer.
 
 ➡ *📫 Reach me on* 🤝
 	yusra.123987@ms.du.ac.in. 
