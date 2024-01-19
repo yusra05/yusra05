@@ -41,10 +41,7 @@
     <div>
         <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yusra05&show_icons=true&locale=en" alt="yusra05" style="width: 296px;" /></p>
     </div>
-    <div>
-        <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yusra05&" alt="yusra05" style="width: 300px;" /></p>
-    </div>
-</div>
+   </div>
 
 
 ## ✨The error of the past is the wisdom of the future
