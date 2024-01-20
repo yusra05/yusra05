@@ -2,7 +2,7 @@
  
 ➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
 
-➡ *I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest & JGEC Winter of Code 🚀
+➡ *I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest, SWOC & JGEC Winter of Code 🚀
 
 ➡  I am Full-Stack Developer 👨‍💻
 
