@@ -1,17 +1,17 @@
 # Hey there👋, I am Yusra 🌻
 
 ## A bit about me 🌱 
-➡ 🏛️ I'm currently pursuing Computer Science from the University of Delhi.
+➡  I'm currently pursuing Computer Science from the University of Delhi. 🏛️
 
-➡ *🚀 I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest & JGEC Winter of Code.
+➡ * I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest & JGEC Winter of Code 🚀
 
-➡ 👨‍💻 I am Full-Stack Developer.
+➡  I am Full-Stack Developer 👨‍💻
 
-➡ *📫 Reach me on* 🤝
-	yusra.123987@ms.du.ac.in. 
+➡ * Reach me on* 🤝
+	yusra.123987@ms.du.ac.in. 📫
 
-➡ *🌐 Find me on LinkedIn* 🤝
-	[LinkedIn Profile](https://www.linkedin.com/in/yusra-227b3024a/)
+➡ * Find me on LinkedIn* 🤝
+	[LinkedIn Profile](https://www.linkedin.com/in/yusra-227b3024a/) 🌐
 
 
 ## *🛠 Languages and Tools* 🚀  
