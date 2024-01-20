@@ -1,6 +1,5 @@
 # Hey there👋, I am Yusra 🌻
-
-## A bit about me 🌱 
+ 
 ➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
 
 ➡ *I have contributed to the open-source* as a part of  Timechain summer of code, Hacktoberfest & JGEC Winter of Code 🚀
