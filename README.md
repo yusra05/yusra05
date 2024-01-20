@@ -13,7 +13,6 @@
 ➡ *🌐 Find me on LinkedIn* 🤝
 	[LinkedIn Profile](https://www.linkedin.com/in/yusra-227b3024a/)
 
-<br>
 
 ## *🛠 Languages and Tools* 🚀  
 
