@@ -28,6 +28,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusra05&theme=react&hide_border=false" alt="yusra05's Streak" style="flex: 1;">
 </div>
 
-<br>
 
 ## ✨The error of the past is the wisdom of the future
