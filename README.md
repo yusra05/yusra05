@@ -23,10 +23,7 @@
 <br> 
 
 ## GitHub Stats 📈
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yusra05&theme=react&show_icons=true&hide_border=false&count_private=true" alt="yusra05's Stats" style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusra05&theme=react&hide_border=false" alt="yusra05's Streak" style="flex: 1;">
-</div>
+[![yusra05's GitHub | Stats](https://stats.quine.sh/yusra05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yusra05)
 
 
 ## ✨The error of the past is the wisdom of the future
