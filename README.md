@@ -2,8 +2,6 @@
  
 ➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
 
-➡  I am Full-Stack Developer 👨‍💻
-
 ➡ *Reach me on* 🤝
 	yusra.123987@ms.du.ac.in. 📫
 
