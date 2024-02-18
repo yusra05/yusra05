@@ -21,5 +21,6 @@
 ## GitHub Stats 📈
 [![yusra05's GitHub | Stats](https://stats.quine.sh/yusra05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yusra05)
 
+[![An image of @yusra05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusra05)](https://holopin.io/@yusra05)
 
 ### ✨The error of the past is the wisdom of the future
