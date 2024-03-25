@@ -1,4 +1,4 @@
-# Hey there👋, I am Yusra 🌻
+# Hey there👋, I am Yusra 🖤
  
 ➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
 
