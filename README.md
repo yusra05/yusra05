@@ -3,7 +3,7 @@
 ➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
 
 ➡ *Reach me on* 🤝
-	yusra.123987@ms.du.ac.in. 📫
+	yusra.me123987@gmail.com 📫
 
 ➡ *Find me on LinkedIn* 🤝
 	[LinkedIn Profile](https://www.linkedin.com/in/yusra-227b3024a/) 🌐
