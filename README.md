@@ -17,7 +17,11 @@
  
 
 ## GitHub Stats 📈
-![yusra05's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=yusra05&type=contributions&theme=radical)
+![yusra05's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=yusra05&type=contributions&theme=radical) 
+
+
+## LeetCode Badges🛡️
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=yusra05&theme=dark&border=border&animated=true" />
 
 #
 
