@@ -17,7 +17,7 @@
  
 
 ## GitHub Stats 📈
-[![yusra05's GitHub | Stats](https://stats.quine.sh/yusra05/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=yusra05)
+![yusra05's Contribution stats](https://github-stats-card-generator.vercel.app/api/svg?username=yusra05&type=contributions&theme=radical)
 
 #
 
