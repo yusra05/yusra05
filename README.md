@@ -23,10 +23,10 @@
 ## LeetCode Badges🛡️
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=yusra05&theme=dark&border=border&animated=true" />
 
-#
+## Holopin Badges🔰
 
 [![An image of @yusra05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yusra05)](https://holopin.io/@yusra05)
 
-#
+---
 
 ### ✨The error of the past is the wisdom of the future
