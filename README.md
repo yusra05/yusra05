@@ -1,5 +1,5 @@
-# Hey there👋, I am Yusra 🖤
- 
+![](https://komarev.com/ghpvc/?username=yusra05&color=ff69b4) 
+# Hey there👋, I am Yusra 💖
 ➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
 
 ➡ *Reach me on* 🤝
