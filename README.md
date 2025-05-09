@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=yusra05&color=ff69b4) 
 # Hey there👋, I am Yusra 💖
-➡  I'm currently pursuing Computer Science from the University of Delhi 🏛️
+➡  Debugging life, one commit at a time.  
+➡ Writes code. Occasionally, it even works. 😅  
+➡ Running `git commit -m "this better work"` and hoping for the best. 🤞  
+➡ Currently optimizing my stack... and my caffeine intake. 😴  
 
-➡ *Reach me on* 🤝
-	yusra.me123987@gmail.com 📫
-
-➡ *Find me on LinkedIn* 🤝
-	[LinkedIn Profile](https://www.linkedin.com/in/yusra-227b3024a/) 🌐
-
+### 📫 Let’s connect!  
+- **Email:** yusra.me123987@gmail.com  
+- **LinkedIn:** [yusra05](https://www.linkedin.com/in/yusra05/)  
 
 ## *🛠 Languages and Tools* 🚀  
 
