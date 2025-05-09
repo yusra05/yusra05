@@ -6,7 +6,7 @@
 ➡ Currently optimizing my stack... and my caffeine intake.😴  
 
 ### 📫 Let’s connect!  
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/yusra05/)  
+- **LinkedIn:** [yusra05](https://www.linkedin.com/in/yusra05/)  
 - **Email:** yusra.me123987@gmail.com  
 
 ## *🛠 Languages and Tools* 🚀  
