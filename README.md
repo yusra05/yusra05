@@ -1,8 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=yusra05&color=ff69b4) 
 # Hey there👋, I am Yusra 💖
-➡ Debugging life, one commit at a time. 🐛
-➡ Writes code. Occasionally, it even works. 😅  
-➡ Currently optimizing my stack... and my caffeine intake. 😴  
+
+➡ Debugging life, one commit at a time.🐛  
+➡ Writes code. Occasionally, it even works.😅  
+➡ Currently optimizing my stack... and my caffeine intake.😴  
 
 ### 📫 Let’s connect!  
 - **LinkedIn:** [Linkedin](https://www.linkedin.com/in/yusra05/)  
