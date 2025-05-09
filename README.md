@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=yusra05&color=ff69b4) 
 # Hey there👋, I am Yusra 💖
-➡  Debugging life, one commit at a time.  
+➡ Debugging life, one commit at a time. 🐛
 ➡ Writes code. Occasionally, it even works. 😅  
-➡ Running `git commit -m "this better work"` and hoping for the best. 🤞  
 ➡ Currently optimizing my stack... and my caffeine intake. 😴  
 
 ### 📫 Let’s connect!  
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/yusra05/)  
 - **Email:** yusra.me123987@gmail.com  
-- **LinkedIn:** [yusra05](https://www.linkedin.com/in/yusra05/)  
 
 ## *🛠 Languages and Tools* 🚀  
 
